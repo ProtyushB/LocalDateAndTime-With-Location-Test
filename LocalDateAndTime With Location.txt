@@ -1,0 +1,10 @@
+Location Table
+
+LocationId
+
+LocalDateTime - 2023-01-12T20:10:11.752181200
+
+Latitude - 22.8714
+
+Longitude - 88.4089
+
